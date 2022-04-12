@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/license-ISC-blue"/>
     
   ## Description
-  Build the back end for an e-commerce site. 
+  A CMS-style blog site that can publish articles, blog posts, and thoughts and opinions
     
   ## Table of Contents
   - [Description](#description)
