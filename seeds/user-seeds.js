@@ -3,54 +3,54 @@ const { User, Post } = require('../models');
 
 const userdata = [
   {
-    username: 'alesmonde0',
-    email: 'nwestnedge0@cbc.ca',
-    password: 'password123'
+    username: 'ron',
+    email: 'ron@gmail.com',
+    password: 'password'
   },
   {
-    username: 'jwilloughway1',
-    email: 'rmebes1@sogou.com',
-    password: 'password123'
+    username: 'bob',
+    email: 'bob@gmail.com',
+    password: 'password'
   },
   {
-    username: 'iboddam2',
-    email: 'cstoneman2@last.fm',
-    password: 'password123'
+    username: 'linda',
+    email: 'linda@gmail.com',
+    password: 'password'
   },
   {
-    username: 'dstanmer3',
-    email: 'ihellier3@goo.ne.jp',
-    password: 'password123'
+    username: 'tina',
+    email: 'tina@gmail.com',
+    password: 'password'
   },
   {
-    username: 'djiri4',
-    email: 'gmidgley4@weather.com',
-    password: 'password123'
+    username: 'gene',
+    email: 'gene@gmail.com',
+    password: 'password'
   },
   {
-    username: 'msprague5',
-    email: 'larnout5@imdb.com',
-    password: 'password123'
+    username: 'teddy',
+    email: 'teddy@gmail.com',
+    password: 'password'
   },
   {
-    username: 'mpergens6',
-    email: 'hnapleton6@feedburner.com',
-    password: 'password123'
+    username: 'jimmyjr',
+    email: 'jimmyjr@gmail.com',
+    password: 'password'
   },
   {
-    username: 'tpenniell7',
-    email: 'kperigo7@china.com.cn',
-    password: 'password123'
+    username: 'louise',
+    email: 'louise@gmail.com',
+    password: 'password'
   },
   {
-    username: 'msabbins8',
-    email: 'lmongain8@google.ru',
-    password: 'password123'
+    username: 'tammy',
+    email: 'tammy@gmail.com',
+    password: 'password'
   },
   {
-    username: 'jmacarthur9',
-    email: 'bsteen9@epa.gov',
-    password: 'password123'
+    username: 'mort',
+    email: 'mort@gmail.com',
+    password: 'password'
   }
 ];
 
