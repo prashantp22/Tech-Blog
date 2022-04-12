@@ -30,7 +30,7 @@
   Rutgers Bootcamp lessons
 
   ## Screenshot
-    <img width="1120" alt="image" src="https://user-images.githubusercontent.com/96153408/163069125-1ff4c005-921e-4a1c-81a8-b7251237a942.png">
+    https://user-images.githubusercontent.com/96153408/163069125-1ff4c005-921e-4a1c-81a8-b7251237a942.png
 
 
   ## Tests
